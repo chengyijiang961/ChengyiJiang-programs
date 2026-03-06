@@ -1,0 +1,10 @@
+Apple##苹果
+Banana##香蕉
+Computer##计算机
+Programming##编程
+Java##Java语言
+Hello##你好
+World##世界
+Learning##学习
+Memory##记忆
+Practice##练习

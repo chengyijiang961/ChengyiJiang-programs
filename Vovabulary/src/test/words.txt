@@ -1,0 +1,272 @@
+dutiful ## 尽责的，顺从的
+preponderance ## 优势，多数，压倒性
+incumbent ## 现任的，在职的；义不容辞的
+transient ## 短暂的，转瞬即逝的
+licentious ## 放肆的，放荡的，淫乱的
+choleric ## 易怒的，暴躁的
+paroxysm ## 突然发作，痉挛
+flotsam ## 漂浮物，零碎残骸
+robust ## 强健的，坚定的，粗壮的
+exiguous ## 稀少的，微薄的
+centripetal ## 向心的
+bombast ## 浮夸的言辞，大话
+amorphous ## 无定形的，无组织的
+libido ## 性欲，本能冲动
+truism ## 老生常谈，不言自明之理
+extort ## 勒索，敲诈
+slovenly ## 邋遢的，马虎的
+levity ## 轻浮，轻率
+miasma ## 瘴气，污浊气氛
+marsupial ## 有袋动物
+unconscionable ## 不合理的，过分的，无良心的
+prate ## 闲聊，喋喋不休
+cite ## 引用，引证
+crabbed ## 易怒的，难懂的，潦草的
+intermittent ## 间歇的，断断续续的
+striated ## 有条纹的，有细沟的
+analogous ## 类似的，相似的
+incredulity ## 怀疑，不相信
+seminal ## 开创性的，有影响力的
+pusillanimous ## 懦弱的，胆小的
+effectual ## 有效的，奏效的
+archipelago ## 群岛
+aphasia ## 失语症
+maul ## 殴打，粗暴对待
+brocade ## 锦缎
+finesse ## 技巧，手腕，精巧
+obsession ## 痴迷，执念
+porous ## 多孔的，可渗透的
+mandatory ## 强制性的，必修的
+prognosticate ## 预言，预测
+niggardly ## 吝啬的，小气的
+realm ## 领域，王国
+imperturbable ## 沉着的，冷静的
+satellite ## 卫星，随从
+simplistic ## 过于简单的，简单化的
+throng ## 人群，蜂拥
+laxative ## 泻药，放松的
+ambiguous ## 模棱两可的，含糊的
+cant ## 伪善之言，行话
+swill ## 痛饮，泔水
+cede ## 割让，放弃
+nadir ## 最低点，天底
+fortuitous ## 偶然的，幸运的
+innate ## 天生的，先天的
+acrid ## 辛辣的，刺鼻的
+stew ## 炖，烦恼
+imposture ## 冒充，欺诈
+beneficent ## 仁慈的，行善的
+temper ## 脾气，缓和
+incidental ## 附带的，偶然的
+implication ## 含义，暗示
+paradigm ## 范式，典范
+seethe ## 沸腾，怒火中烧
+circumspect ## 谨慎的，小心的
+replicate ## 复制，重现
+mauve ## 淡紫色
+attenuate ## 减弱，稀释
+swerve ## 突然转向
+postulate ## 假定，假设
+indisputable ## 无可争辩的
+paucity ## 缺乏，稀少
+terminate ## 终止，结束
+premise ## 前提
+facetious ## 滑稽的，好开玩笑的
+figment ## 虚构的事物
+aplomb ## 沉着，自信
+exhibit ## 展示，表现
+streak ## 条纹，个性特征
+temperament ## 气质，性格
+demonstrate ## 证明，展示
+show ## 展示，表明
+renounce ## 宣布放弃，正式放弃
+announce ## 宣布，宣告
+an- ## 朝向（前缀，原型 ad-）
+re- ## 再次，向后（常见否定/反向前缀）
+denotes ## 表示，预示
+predict ## 预测，预言
+represent ## 代表，表现
+inferior to ## 比···低劣，不如
+praise ## 赞扬，称赞
+orthodox ## 正统的，传统的
+cull ## 挑选，剔除
+choose ## 选择，挑选
+incompatible with ## 与···不兼容，无法共存
+prevail ## 盛行，流行；获胜
+foretold ## 预言，提前说
+explicit ## 明确的，清晰的
+implicit ## 含蓄的，隐含的
+over ## 在···期间；越过
+pupil ## 瞳孔；学生
+iris ## 虹膜；鸢尾花
+compare ## 比较，对比
+similarity ## 相似性，类似
+contrast ## 对比，差异
+particular ## 特定的，特别的
+emotion ## 情感，情绪
+corroborated ## 证实，确证
+evade ## 逃避，规避
+avoid ## 避免，避开
+impromptu ## 即兴的， improvis
+improvis ## 即兴创作（improvise 的名词/简写）
+odor ## 气味
+perceive ## 感知，察觉
+pleasant ## 令人愉悦的，愉快的
+unpleasant ## 令人不快的，讨厌的
+undermine ## 削弱，破坏（基础/论点）
+varies from ## 不同于；从···变化而来
+helps with ## 帮助做某事
+reacts to ## 对···作出反应
+argues with ## 与···争论
+rectify ## 纠正，矫正
+counteract ## 抵消，对抗
+magnify ## 放大，夸大
+apprehend ## 理解；逮捕
+protested ## 抗议，反对
+defined ## 定义，明确
+exhibited ## 展示，显出
+confirmed ## 确认，证实
+renounces ## 宣布放弃
+discovers ## 发现，发觉
+complains ## 抱怨，投诉
+denotes ## 表示，指示
+journalism ## 新闻业，新闻工作
+inexplicably ## 难以理解地，莫名其妙地
+orthodoxy ## 正统观念，正统做法
+resemble ## 像，类似于
+accommodate ## 容纳；向···提供住处
+analysis ## 分析（名词）
+intensity ## 强度，强烈
+gerbils ## 沙鼠，仓鼠（复数）
+reveal ## 显示，揭示
+observation ## 观察，评论
+burgeoning ## 迅速发展的，增长的
+infect ## 感染，传染
+conspicuous ## 显眼的，引人注目的
+expansive ## 广阔的；开朗的
+headstrong ## 任性的，顽固的
+meddlesome ## 爱管闲事的，好干涉的
+obtrusive ## 显眼的；突出的
+manifestation ## 表现，显示
+aesthetic ## 审美的，美学的
+practical ## 实际的，实用的
+predation ## 捕食，掠夺
+nocturnal ## 夜间活动的，夜的
+emit ## 发散，发出（光/热/气味）
+attempt ## 尝试，试图
+preserve ## 保护，保存
+stenography ## 速记，速记法
+impromptu ## 即兴的， improvis
+deviation ## 偏离，背离
+fidelity ## 忠实，忠诚
+toward ## 向，对于
+inherently ## 天生地，固有地
+given that ## 考虑到，鉴于
+considering ## 考虑到，就···而论
+specify ## 详细说明，具体指定
+specialization ## 专业化，特化
+generalize ## 概括，归纳
+transient ## 短暂的，转瞬即逝的
+ephemeral ## 短暂的，朝生暮死的
+part ## 部分；角色
+partiality ## 偏袒，偏爱
+superficially ## 表面地，肤浅地
+definitiveness ## 确定性，明确性
+qualification ## 资格；限制条件
+courtesy ## 礼貌，好意
+by courtesy ## 礼貌性地，承蒙好意
+analysis (n) ## 分析（名词单数）
+basis (n) ## 基础，根据
+analyze (v) ## 分析（动词）
+reverse ## 反转，颠倒
+reversely ## 相反地，反向地
+have yet to ## 尚未，有待
+yet to do sth ## 尚未做某事
+derivative ## 衍生的；缺乏创意的
+coorborate ## 证实，确证（同 corroborate）
+protest ## 抗议，反对
+against ## 反对，靠
+protest against ## 抗议，反对
+fight against ## 与···斗争，反对
+barring ## 除···之外；不包括
+exhaust ## 耗尽，使筋疲力尽
+exhausted ## 筋疲力尽的
+exhaustive ## 详尽的，彻底的
+precisely because of ## 恰恰因为，正因为
+ingenious ## 巧妙的，聪明的
+pristine ## 纯净的，原始的
+meticulous ## 一丝不苟的，小心翼翼的
+affecting ## 感人的，动人的
+resonance ## 共鸣；回声
+despite ## 尽管，不管
+pseudonymously ## 用假名地，笔名地
+contradictory ## 矛盾的，对立的
+commission ## 委任；委员会；佣金
+collective ## 集体的，共同的
+portable ## 便携的，轻便的
+boon ## 利好，恩惠
+notorious ## 臭名昭著的
+rigor ## 严格，严谨
+characterization ## 描述，刻画
+characterize ## 描述···的特征，刻画
+apt ## 恰当的，适当的；易于···的
+parallel ## 相似，平行；类似的
+sensible ## 明智的，合理的
+substantiate ## 证实，证明
+reproduce ## 复制；繁殖
+imitate ## 模仿，仿效
+intimate ## 亲密的，密切的
+intimidate ## 威胁，恐吓
+lineage ## 血统，世系
+make the acquaintance of ## 结识，认识
+acolyte ## 助手，侍僧
+synonym ## 同义词
+synonym (to) ## 等同于，关系紧密
+derivative ## 模仿他人的，缺乏创意的
+champion ## 冠军；支持，拥护
+humanitarian ## 人道主义的，人道主义者
+allude ## 影射，间接提到
+provoke ## 激起，引起；挑衅
+deteriorate ## 恶化，变坏
+willfully ## 故意地，任性固执地
+attribute to ## 归因于，认为是···所为
+address ## 解决；演说；地址
+praises ## 赞扬，赞美（名词复数）
+naive ## 天真的，幼稚的
+sentimental ## 感伤的，多愁善感的
+termed ## 称为，把···叫做
+caller ## 呼叫者，访问者
+term ## 术语；学期；任期
+account ## 账户；描述；解释
+amount ## 数量，总额
+rigid ## 严格的；死板的
+affinity ## 喜爱；相似；亲和力
+abnormal ## 反常的，异常的
+ramble ## 漫游，闲逛；漫谈
+waive ## 放弃，不坚持要求
+give up ## 放弃，投降
+concede ## 承认；让步
+refute ## 反驳，驳斥
+penetrate ## 渗透，穿透
+impenetrable ## 不能渗透的；晦涩难懂的
+compel ## 强迫，迫使
+compelling ## 有说服力的；引人入胜的
+susceptible ## 易受影响的，易动感情的
+continent ## 大陆，洲
+depend on ## 依赖，取决于
+saturated ## 饱和的，浸透的
+deplete ## 耗尽，使枯竭
+dormant ## 休眠的，静止的
+decisive ## 决定性的，果断的
+定语从句的出口 ## 是谓语动词
+入口 that ## 引导定语从句的关系词
+that enable ## 使能够
+enabling ## 使成为可能
+feature ## 以···为特色；由···主演
+comprises ## 包含，包括；由···组成
+engulf ## 吞没，淹没
+cast ## 演员阵容；投掷
+provoke ## 挑衅，激起
+distraction ## 分心，分心的事物
+proponent ## 支持者，倡导者
+supplement ## 补充，增补
